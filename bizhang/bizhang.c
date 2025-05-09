@@ -7,8 +7,8 @@
 #include <wiringx.h>
 #include <ctype.h>
 #include <time.h>
-#define Trig 10
-#define Echo 11
+#define Trig 14
+#define Echo 15
 #define PIN_MOTOR_F1 2
 #define PIN_MOTOR_F2 4
 #define PIN_MOTOR_B1 6
